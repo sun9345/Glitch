@@ -1,0 +1,55 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+ipch/
+
+# MSBuild / MSVC output
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+x64/
+x86/
+Win32/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.o
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.pch
+*.pgc
+*.pgd
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.exp
+*.lib
+*.map
+*.res
+
+# g++ / MinGW
+glitch
+glitch.exe
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
