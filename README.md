@@ -32,7 +32,7 @@ Build (MSVC):  cl /std:c++17 /O2 /EHsc glitch_gui.cpp
 Build (MinGW): g++ -std=c++17 -O2 -mwindows glitch_gui.cpp -o glitch_gui -lgdi32 -lcomdlg32 -lshell32 -luser32
 ```
 
-C++17, Windows. No extra libraries: `stb_image.h` and `stb_image_write.h` are already in the repo.
+C++17, Windows
 
 ## License
 
