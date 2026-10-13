@@ -40,9 +40,9 @@ Win32/
 *.map
 *.res
 
-# g++ / MinGW
-glitch
-glitch.exe
+# MinGW binary named "glitch" (no .exe). Do not use a bare "glitch" rule:
+# on Windows git is case-insensitive, so it would ignore the Glitch/ source folder.
+Glitch/glitch
 
 # OS / editor
 Thumbs.db
