@@ -1,6 +1,6 @@
 # Glitch
 
-Windows tool for glitching images. Effects can be stacked in any order (repeats allowed).
+Windows tool for glitching images.
 
 - **GUI** (`glitch_gui.cpp`) — preview, undo/redo, drag & drop, per-effect settings
 - **Console** (`glitch.cpp`) — pick a file and a sequence of operations, write `name_glitch.jpg` / `.png`
